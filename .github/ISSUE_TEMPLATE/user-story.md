@@ -14,3 +14,9 @@ As a **ROLE** I can **FEATURE** so that **BENEFIT**
 - [ ] 1: Acceptance criteria should be concise, precise, atomic and unambiguous
 - [ ] 2: 
 - [ ] 3:
+
+**Tasks**
+
+- [ ] 1: Tasks should be concise, precise, atomic and unambiguous, and take less than one person-day to complete
+- [ ] 2: 
+- [ ] 3:
